@@ -1,5 +1,5 @@
 # Personalized-Medicine-RCT-kaggle-project
-Personalized Medicine: Redefining Cancer Treatment a kaggle competition
+Personalized Medicine: Redefining Cancer Treatment a kaggle competition.
 topics :
   1) EDA
   2) Feature extraction
